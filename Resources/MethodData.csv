@@ -1,3 +1,8 @@
-Year,Method,Boroughs
-2007,Community Policing,All
-2008,Community Policing,All
+Year,Method,Boroughs,Notes 
+1993 - 1996,Broken Windows,,
+1994,Com Stat,,
+2001 - 2009,"SQF (Stop, Question, Frisks)",,"Also rise in counter-terrorism measures. But SQF specfically targets guns, drugs, etc so should be lowering shootings"
+2001-2003,Hot Spots,,Higher Arrests
+2014-2020,Ceasefire,,Reduce recidivism for known offenders
+2015-2020,Neighborhood Policing,,
+2007-2020,Community Policing/ComStat,All,
